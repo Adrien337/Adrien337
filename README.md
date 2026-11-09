@@ -8,6 +8,7 @@
 
 - J'étudie la programmation à **La Manu**, à Compiègne
 - Je recherche un **stage de 420 heures**, puis une **alternance** l'année prochaine
+- Titulaire du **permis B**
 - Je travaille sur **osu_bot**, un bot qui joue automatiquement aux beatmaps d'osu!
 - Basé à **Compiègne**
 
